@@ -1,6 +1,6 @@
 # Measurement Converter in Visual Basic
 
-A measurement converter in Visual Basic.
+A measurement converter in Visual Basic .NET 4.8.
 
 ![](/images/length.png)
 
